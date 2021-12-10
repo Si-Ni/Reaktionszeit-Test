@@ -20,6 +20,7 @@ function startTimerRandom() {
     document.body.style.backgroundColor = "green";
     startDate = Date.now();
     timerStarted = true;
+    clearInterval(Interval);
   }
 }
 
