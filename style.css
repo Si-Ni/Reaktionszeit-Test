@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  box-sizing: border-box;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+#startButton {
+  width: 10vh;
+  height: 5vh;
+  font-size: 1.2rem;
+}
